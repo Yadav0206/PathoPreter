@@ -246,8 +246,7 @@ Raw DNA Sequence (±500bp context)
 
 In clinical genomics, transparency is just as critical as performance. We do not believe in "black box" medicine or hidden methodologies. To ensure total trust and allow the community to verify our benchmarks, the entire PathoPreter ecosystem is fully open-sourced.
 
-* **Dataset Generation Pipeline:** The complete end-to-end data processing, k-mer tokenization, and feature engineering pipeline is publicly available at **[VanshSaraf/patho-preter](https://github.com/VanshSaraf/patho-preter)**.
-* **From-Scratch Training Scripts:** We provide the exact, fully reproducible biological fine-tuning scripts used to create the model. Anyone can train PathoPreter from scratch, verify our claims, or adapt the architecture to build specialized models for their own private genetic cohorts. **[VanshSaraf/patho-preter](https://github.com/VanshSaraf/patho-preter)**.
+
 
 # TRAIN FOR FREE ON [LIGHTNING.AI](http://LIGHTNING.AI) ON A100 IN 6 HOURS UNDER THE FREE CREDITS!!
 
